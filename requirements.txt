@@ -1,0 +1,6 @@
+line-bot-sdk
+flask
+python-dotenv==0.10.1
+pychromecast
+gtts_token
+tinydb
